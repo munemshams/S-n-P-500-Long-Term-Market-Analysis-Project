@@ -1,6 +1,6 @@
 # S&P 500 Long-Term Market Analysis (1927–2020)
 
-This project analyzes nearly a century of S&P 500 index data (23,323 daily observations) from the years 1927 to 2020 using R to evaluate long-term growth, return behavior, volatility patterns, seasonality effects, and major market shocks.
+This project analyzes nearly a century of S&P 500 index data (23,323 daily observations) from the years 1927 to 2020 using R Studio to evaluate long-term growth, return behavior, volatility patterns, seasonality effects, and major market shocks.
 
 The analysis combines financial time-series techniques with statistical inference to understand how the U.S. market behaves over time.
 
